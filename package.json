@@ -1,8 +1,9 @@
 {
-    "name": "xmax-test-assignment",
+    "name": "xmax-test-assignment-root",
     "version": "1.0.0",
     "description": "XMAX 测试工程师面试编程题",
     "private": true,
+    "type": "module",
     "scripts": {
         "start:job": "cd job-service && npm start",
         "start:user": "cd user-center && npm start",
